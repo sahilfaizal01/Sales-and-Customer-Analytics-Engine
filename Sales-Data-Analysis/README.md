@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
 ## Problem Statement:-
 Amaze is a hardware solutions company operating in multiple locations within India. The leadership team noticed a steep decline in overall revenue despite receiving positive sales reports from regional managers in different states. This led the management to hire a data analyst to find key insights from the data collected from the nationwide offices. As a part of this, the analyst is provided with a SQL sales database containing multiple tables related to the transactions, offices, product details, etc. The assigned task is to design an interactive dashboard containing region-wise and data-wise sales insights to make an effective decision.
-<img width="1493" alt="image" src="amaze-intro.jpeg">
+<img width="1493" alt="image" src="output/amaze-intro.jpeg">
 
 ## Importance Of Sales Analytics Using Tableau
 Sales analytics using Tableau holds significant importance for businesses, enabling data-driven decision-making, performance tracking, and enhanced sales strategies. Here's why it's crucial:
@@ -33,41 +33,41 @@ In summary, Tableau's sales analytics capabilities play a pivotal role in helpin
 ## Source Data Schema:-
 * Contains nearly 150k data records related to sales throughout India
 ### Customer Table
-<img width="339" alt="image" src="customers-table.png">
+<img width="339" alt="image" src="output/customers-table.png">
 
 ### Date Table
-<img width="378" alt="image" src="date-table.png">
+<img width="378" alt="image" src="output/date-table.png">
 
 ### Markets Table
-<img width="378" alt="image" src="markets-table.png">
+<img width="378" alt="image" src="output/markets-table.png">
 
 ### Products Table
-<img width="378" alt="image" src="products-table.png">
+<img width="378" alt="image" src="output/products-table.png">
 
 ### Transactions Table
-<img width="549" alt="image" src="transactions-table.png">
+<img width="549" alt="image" src="output/transactions-table.png">
 
 ## Data Schema Relations:-
-<img width="1119" alt="image" src="schema.png">
+<img width="1119" alt="image" src="output/schema.png">
 
 ## Dashboard Screenshot:-
-<img width="1510" alt="image" src="dashboard.png">
+<img width="1510" alt="image" src="output/dashboard.png">
 
 ## Plots:-
 ### Revenue by Markets
-<img width="1510" alt="image" src="revenue-markets.png">
+<img width="1510" alt="image" src="output/revenue-markets.png">
 
 ### Sales Quantity by Markets
-<img width="1510" alt="image" src="sales-markets.png">
+<img width="1510" alt="image" src="output/sales-markets.png">
 
 ### Top 5 Customers
-<img width="1510" alt="image" src="top-5-customers.png">
+<img width="1510" alt="image" src="output/top-5-customers.png">
 
 ### Top 5 Products
-<img width="1510" alt="image" src="top-5-products.png">
+<img width="1510" alt="image" src="output/top-5-products.png">
 
 ### Revenue by Year
-<img width="1510" alt="image" src="sales-year.png">
+<img width="1510" alt="image" src="output/sales-year.png">
 
 ## Findings:-
 * Despite the revenue growth in 2018 from 2017, revenues went down in 2019 and 2020.
