@@ -57,28 +57,28 @@
 * Upcoming offers
 
 ## WEB PORTAL DESIGN
-<img width="1512" alt="image" src="keralaEats-UI.png">
-<img width="1512" alt="image" src="ui-2.png">
-<img width="1512" alt="image" src="ui-3.png">
+<img width="1512" alt="image" src="assets/keralaEats-UI.png">
+<img width="1512" alt="image" src="assets/ui-2.png">
+<img width="1512" alt="image" src="assets/ui-3.png">
 
 ## CHATBOT WORKING
 ### Starting the conversation
-<img width="425" alt="Screenshot 2023-09-07 at 12 56 32 AM" src="starting-conv.png">
+<img width="425" alt="Screenshot 2023-09-07 at 12 56 32 AM" src="assets/starting-conv.png">
 
 ### Requesting for new order
-<img width="425" alt="Screenshot 2023-09-07 at 12 56 40 AM" src="request-new.png">
+<img width="425" alt="Screenshot 2023-09-07 at 12 56 40 AM" src="assets/request-new.png">
 
 ### Specifying order details 
-<img width="425" alt="Screenshot 2023-09-07 at 12 56 53 AM" src="specify-roder.png">
+<img width="425" alt="Screenshot 2023-09-07 at 12 56 53 AM" src="assets/specify-roder.png">
 
 ### Placing an order
-<img width="425" alt="Screenshot 2023-09-07 at 12 57 00 AM" src="place-order.png">
+<img width="425" alt="Screenshot 2023-09-07 at 12 57 00 AM" src="assets/place-order.png">
 
 ### Store hours
-<img width="425" alt="Screenshot 2023-09-07 at 12 57 45 AM" src="store-hours.png">
+<img width="425" alt="Screenshot 2023-09-07 at 12 57 45 AM" src="assets/store-hours.png">
 
 ### Ongoing Offers
-<img width="425" alt="Screenshot 2023-09-07 at 12 57 52 AM" src="offers.png">
+<img width="425" alt="Screenshot 2023-09-07 at 12 57 52 AM" src="assets/offers.png">
 
 
 
